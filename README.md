@@ -1,6 +1,6 @@
 #About me
 
-Here are some ideas to get you started:
+Here are some pieces of information for your reference:
 
 - 🌱 I’m currently learning how to use GitHub
 - 🤔 I’m looking for help using GitHub
